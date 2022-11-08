@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LocationApp</string>
+    <string name="Last_pos">Last Position:</string>
+    <string name="Curr_pos">Current Position:</string>
+    <string name="Get_Loc">Get Location</string>
+    <string name="Dist">Distance</string>
 </resources>
