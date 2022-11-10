@@ -12,7 +12,7 @@
         android:orientation="vertical">
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/button_getLocation"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
@@ -35,7 +35,7 @@
                 android:textSize="25sp"/>
 
             <EditText
-                android:id="@+id/last"
+                android:id="@+id/editText_lastPos"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:hint="Your Position" />
@@ -54,7 +54,7 @@
                 android:textSize="25sp"/>
 
             <EditText
-                android:id="@+id/curr"
+                android:id="@+id/editText_currPos"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:hint="Your Position" />
@@ -73,7 +73,7 @@
                 android:textSize="25sp"/>
 
             <EditText
-                android:id="@+id/dist"
+                android:id="@+id/editText_distance"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:hint="@string/Dist" />
